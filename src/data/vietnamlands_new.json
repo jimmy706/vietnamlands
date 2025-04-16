@@ -1,0 +1,243 @@
+[
+    {
+        "name": "Hà Nội",
+        "code": "HN",
+        "type": "Thành phố trực thuộc trung ương",
+        "population": 8000000,
+        "area": 3324,
+        "gdp": 200000,
+        "description": "Thủ đô của Việt Nam, nổi tiếng với văn hóa và lịch sử.",
+        "coordinates": [
+            21.0285,
+            105.8542
+        ],
+        "licensePlates": [
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            40
+        ],
+        "subdivisions": [
+            {
+                "name": "Ba Đình",
+                "population": 200000,
+                "area": 9.2,
+                "gdp": 5000,
+                "description": "Quận trung tâm chính trị của Hà Nội.",
+                "coordinates": [
+                    21.0285,
+                    105.8542
+                ]
+            },
+            {
+                "name": "Hoàn Kiếm",
+                "population": 150000,
+                "area": 5.3,
+                "gdp": 3000,
+                "description": "Quận nổi tiếng với Hồ Gươm và phố cổ.",
+                "coordinates": [
+                    21.0285,
+                    105.8542
+                ]
+            },
+            {
+                "name": "Tây Hồ",
+                "population": 200000,
+                "area": 24.9,
+                "gdp": 4000,
+                "description": "Quận có nhiều hồ và khu vực dân cư cao cấp.",
+                "coordinates": [
+                    21.0285,
+                    105.8542
+                ]
+            },
+            {
+                "name": "Cầu Giấy",
+                "population": 300000,
+                "area": 12.3,
+                "gdp": 6000,
+                "description": "Quận phát triển nhanh với nhiều văn phòng và trường học.",
+                "coordinates": [
+                    21.0285,
+                    105.8542
+                ]
+            },
+            {
+                "name": "Đống Đa",
+                "population": 400000,
+                "area": 10.5,
+                "gdp": 7000,
+                "description": "Quận nổi tiếng với nhiều trường đại học và bệnh viện.",
+                "coordinates": [
+                    21.0285,
+                    105.8542
+                ]
+            },
+            {
+                "name": "Hai Bà Trưng",
+                "population": 300000,
+                "area": 9.1,
+                "gdp": 5000,
+                "description": "Quận có nhiều trung tâm thương mại và văn phòng.",
+                "coordinates": [
+                    21.0285,
+                    105.8542
+                ]
+            },
+            {
+                "name": "Thanh Xuân",
+                "population": 400000,
+                "area": 10.4,
+                "gdp": 6000,
+                "description": "Quận phát triển với nhiều khu dân cư mới.",
+                "coordinates": [
+                    21.0285,
+                    105.8542
+                ]
+            },
+            {
+                "name": "Nam Từ Liêm",
+                "population": 500000,
+                "area": 12.5,
+                "gdp": 8000,
+                "description": "Quận mới thành lập với nhiều dự án phát triển.",
+                "coordinates": [
+                    21.0285,
+                    105.8542
+                ]
+            },
+            {
+                "name": "Bắc Từ Liêm",
+                "population": 300000,
+                "area": 10.1,
+                "gdp": 4000,
+                "description": "Quận có nhiều khu công nghiệp và trường học.",
+                "coordinates": [
+                    21.0285,
+                    105.8542
+                ]
+            },
+            {
+                "name": "Long Biên",
+                "population": 200000,
+                "area": 14.3,
+                "gdp": 3000,
+                "description": "Quận có nhiều khu đô thị mới và công viên.",
+                "coordinates": [
+                    21.0285,
+                    105.8542
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hồ Chí Minh",
+        "code": "HCM",
+        "type": "Thành phố trực thuộc trung ương",
+        "population": 9000000,
+        "area": 2095,
+        "gdp": 300000,
+        "description": "Thành phố lớn nhất Việt Nam, trung tâm kinh tế và thương mại.",
+        "coordinates": [
+            10.8231,
+            106.6297
+        ],
+        "licensePlates": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49
+        ],
+        "subdivisions": [
+            {
+                "name": "Quận 1",
+                "population": 200000,
+                "area": 7.7,
+                "gdp": 10000,
+                "description": "Quận trung tâm thương mại và tài chính của thành phố.",
+                "coordinates": [
+                    10.8231,
+                    106.6297
+                ]
+            },
+            {
+                "name": "Quận 2",
+                "population": 300000,
+                "area": 50.2,
+                "gdp": 8000,
+                "description": "Quận phát triển với nhiều khu đô thị mới.",
+                "coordinates": [
+                    10.8231,
+                    106.6297
+                ]
+            },
+            {
+                "name": "Quận 3",
+                "population": 150000,
+                "area": 6.2,
+                "gdp": 6000,
+                "description": "Quận có nhiều trường học và bệnh viện.",
+                "coordinates": [
+                    10.8231,
+                    106.6297
+                ]
+            },
+            {
+                "name": "Quận 4",
+                "population": 100000,
+                "area": 4.2,
+                "gdp": 4000,
+                "description": "Quận có nhiều khu dân cư và chợ truyền thống.",
+                "coordinates": [
+                    10.8231,
+                    106.6297
+                ]
+            },
+            {
+                "name": "Quận 5",
+                "population": 200000,
+                "area": 19.3,
+                "gdp": 5000,
+                "description": "Quận nổi tiếng với văn hóa và lịch sử.",
+                "coordinates": [
+                    10.8231,
+                    106.6297
+                ]
+            },
+            {
+                "name": "Quận 6",
+                "population": 250000,
+                "area": 15.5,
+                "gdp": 7000,
+                "description": "Quận có nhiều khu công nghiệp và chợ lớn.",
+                "coordinates": [
+                    10.8231,
+                    106.6297
+                ]
+            },
+            {
+                "name": "Quận Bình Thạnh",
+                "population": 300000,
+                "area": 20.5,
+                "gdp": 9000,
+                "description": "Quận phát triển với nhiều văn phòng và trường học.",
+                "coordinates": [
+                    10.8231,
+                    106.6297
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,16 @@
+[build-system]
+requires = ["hatchling >= 1.26"]
+build-backend = "hatchling.build"
+
+[project]
+name = "vietnamlands"
+version = "0.1.0"
+description = "A Python package for exploring and managing land properties in Vietnam. This project aims to simplify the process of finding, analyzing, and investing in Vietnamese real estate."
+readme = "README.md"
+readme-type = "markdown"
+authors = [
+    {name="June Dang", email="june_dang@outlook.com"}
+]
+license = {text="Apache-2.0"}
+license-files = ["LICENSE"]
+keywords = ["real estate", "Vietnam", "land properties", "investment", "property management"]
