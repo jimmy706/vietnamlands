@@ -52,3 +52,8 @@ class FilteringData:
         self.data = self.filtering_by_name(name, self.data)
         self.data = self.filtering_by_license_plates(licensePlates, self.data)
         return self.filtering_by_subdivision(subdivision_level, self.data)
+
+    def ordering_data(self, order_by=None):
+        if order_by:
+            self.data.sort(key=lambda x: x.get(order_by, ''))
+        return self.data

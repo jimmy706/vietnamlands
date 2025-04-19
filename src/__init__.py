@@ -22,7 +22,7 @@ def __load_json(file_path):
 
     return data
 
-def list_old_provinces(name='', licensePlates=[], subdivision_level=0):
+def list_old_provinces(name='', licensePlates=[], subdivision_level=0, order_by=None):
     """
     List all old provinces from the JSON file.
     :return: List of old provinces.
@@ -30,7 +30,11 @@ def list_old_provinces(name='', licensePlates=[], subdivision_level=0):
     file_path = os.path.join(os.path.dirname(__file__), __OLD_PROVINCES_FILE)
     data = __load_json(file_path)
     data_filter = FilteringData(data)
-    return data_filter.filtering_data(name, licensePlates, subdivision_level)
+
+    retruned_data = data_filter.filtering_data(name, licensePlates, subdivision_level)
+    if (order_by):
+        retruned_data = data_filter.ordering_data(order_by)
+    return retruned_data
 
 
 def list_new_provinces(name='', licensePlates=[], subdivision_level=0):
@@ -72,5 +76,3 @@ parser.add_argument(
     choices=[0, 1, 2],
     help="Subdivision level to filter by (0, 1, or 2)",
 )
-
-args = parser.parse_args()

@@ -153,6 +153,38 @@
                     {
                         "name": "Phường Giảng Võ",
                         "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Kim Mã",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Ngọc Khánh",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Núi Trúc",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Phúc Xá",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Quán Thánh",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Thành Công",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Trúc Bạch",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Vĩnh Phúc",
+                        "type": "Phường"
                     }
                 ]
             },
@@ -171,13 +203,230 @@
                     {
                         "name": "Phường Hàng Bài",
                         "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Hàng Bạc",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Hàng Bông",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Hàng Gai",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Lý Thái Tổ",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Phan Chu Trinh",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Tràng Tiền",
+                        "type": "Phường"
                     }
                 ]
             },
             {
                 "name": "Quận Đống Đa",
                 "type": "Quận",
-                "subdivisions": []
+                "subdivisions": [
+                    {
+                        "name": "Phường Cát Linh",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Đống Đa",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Khâm Thiên",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Khương Thượng",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Láng Hạ",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Láng Thượng",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Nam Đồng",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Ô Chợ Dừa",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Phương Liên",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Trung Liệt",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Trung Phụng",
+                        "type": "Phường"
+                    }
+                ]
+            },
+            {
+                "name": "Quận Hai Bà Trưng",
+                "type": "Quận",
+                "subdivisions": [
+                    {
+                        "name": "Phường Bạch Đằng",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Bùi Thị Xuân",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Cầu Dền",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Đồng Tâm",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Lê Đại Hành",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Minh Khai",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Phố Huế",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Quỳnh Mai",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Thanh Nhàn",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Trương Định",
+                        "type": "Phường"
+                    }
+                ]
+            },
+            {
+                "name": "Quận Tây Hồ",
+                "type": "Quận",
+                "subdivisions": [
+                    {
+                        "name": "Phường Bưởi",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Nhật Tân",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Quảng An",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Thụy Khuê",
+                        "type": "Phường"
+                    }
+                ]
+            },
+            {
+                "name": "Quận Hoàng Mai",
+                "type": "Quận",
+                "subdivisions": [
+                    {
+                        "name": "Phường Đại Kim",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Định Công",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Hoàng Liệt",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Lĩnh Nam",
+                        "type": "Phường"
+                    }
+                ]
+            },
+            {
+                "name": "Quận Thanh Xuân",
+                "type": "Quận",
+                "subdivisions": [
+                    {
+                        "name": "Phường Hạ Đình",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Khương Đình",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Khương Mai",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Nhân Chính",
+                        "type": "Phường"
+                    }
+                ]
+            },
+            {
+                "name": "Quận Bắc Từ Liêm",
+                "type": "Quận",
+                "subdivisions": [
+                    {
+                        "name": "Phường Đông Ngạc",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Minh Khai",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Thụy Phương",
+                        "type": "Phường"
+                    }
+                ]
+            },
+            {
+                "name": "Quận Nam Từ Liêm",
+                "type": "Quận",
+                "subdivisions": [
+                    {
+                        "name": "Phường Mỹ Đình 1",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Mỹ Đình 2",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Mễ Trì",
+                        "type": "Phường"
+                    }
+                ]
             }
         ]
     },
@@ -227,7 +476,83 @@
         ],
         "name": "Đà Nẵng",
         "type": "Thành phố trực thuộc trung ương",
-        "subdivisions": []
+        "subdivisions": [
+            {
+                "name": "Quận Hải Châu",
+                "type": "Quận",
+                "subdivisions": [
+                    {
+                        "name": "Phường Bình Hiên",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Bình Thuận",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Hòa Cường Bắc",
+                        "type": "Phường"
+                    }
+                ]
+            },
+            {
+                "name": "Quận Thanh Khê",
+                "type": "Quận",
+                "subdivisions": []
+            },
+            {
+                "name": "Quận Liên Chiểu",
+                "type": "Quận",
+                "subdivisions": []
+            },
+            {
+                "name": "Quận Ngũ Hành Sơn",
+                "type": "Quận",
+                "subdivisions": []
+            },
+            {
+                "name": "Huyện Hòa Vang",
+                "type": "Huyện",
+                "subdivisions": []
+            },
+            {
+                "name": "Huyện Hoàng Sa",
+                "type": "Huyện",
+                "subdivisions": []
+            },
+            {
+                "name": "Quận Sơn Trà",
+                "type": "Quận",
+                "subdivisions": [
+                    {
+                        "name": "Phường An Hải Bắc",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường An Hải Tây",
+                        "type": "Phường"
+                    }
+                ]
+            },
+            {
+                "name": "Quận Cẩm Lệ",
+                "type": "Quận",
+                "subdivisions": [
+                    {
+                        "name": "Phường Hòa An",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Hòa Phát",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Khuê Trung",
+                        "type": "Phường"
+                    }
+                ]
+            }
+        ]
     },
     {
         "licensePlates": [
@@ -378,12 +703,38 @@
             {
                 "name": "Gò Vấp",
                 "type": "Quận",
-                "subdivisions": []
+                "subdivisions": [
+                    {
+                        "name": "Phường 1",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường 2",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường 3",
+                        "type": "Phường"
+                    }
+                ]
             },
             {
                 "name": "Phú Nhuận",
                 "type": "Quận",
-                "subdivisions": []
+                "subdivisions": [
+                    {
+                        "name": "Phường 1",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường 2",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường 3",
+                        "type": "Phường"
+                    }
+                ]
             },
             {
                 "name": "Tân Bình",
@@ -444,15 +795,15 @@
                 "type": "Huyện",
                 "subdivisions": [
                     {
-                        "name": "Xã Phú Xuân",
+                        "name": "Phú Xuân",
                         "type": "Xã"
                     },
                     {
-                        "name": "Xã Nhơn Đức",
+                        "name": "Nhơn Đức",
                         "type": "Xã"
                     },
                     {
-                        "name": "Xã Long Thới",
+                        "name": "Long Thới",
                         "type": "Xã"
                     }
                 ]
@@ -462,15 +813,15 @@
                 "type": "Huyện",
                 "subdivisions": [
                     {
-                        "name": "Xã Bình Khánh",
+                        "name": "Bình Khánh",
                         "type": "Xã"
                     },
                     {
-                        "name": "Xã An Thới Đông",
+                        "name": "An Thới Đông",
                         "type": "Xã"
                     },
                     {
-                        "name": "Xã Tam Thôn Hiệp",
+                        "name": "Tam Thôn Hiệp",
                         "type": "Xã"
                     }
                 ]
@@ -480,15 +831,15 @@
                 "type": "Huyện",
                 "subdivisions": [
                     {
-                        "name": "Xã Bà Điểm",
+                        "name": "Bà Điểm",
                         "type": "Xã"
                     },
                     {
-                        "name": "Xã Đông Thạnh",
+                        "name": "Đông Thạnh",
                         "type": "Xã"
                     },
                     {
-                        "name": "Xã Nhị Bình",
+                        "name": "Nhị Bình",
                         "type": "Xã"
                     }
                 ]
@@ -498,15 +849,15 @@
                 "type": "Huyện",
                 "subdivisions": [
                     {
-                        "name": "Xã Vĩnh Lộc A",
+                        "name": "Vĩnh Lộc A",
                         "type": "Xã"
                     },
                     {
-                        "name": "Xã Vĩnh Lộc B",
+                        "name": "Vĩnh Lộc B",
                         "type": "Xã"
                     },
                     {
-                        "name": "Xã Bình Hưng",
+                        "name": "Bình Hưng",
                         "type": "Xã"
                     }
                 ]
@@ -519,7 +870,54 @@
         ],
         "name": "Đồng Nai",
         "type": "Tỉnh",
-        "subdivisions": []
+        "subdivisions": [
+            {
+                "name": "Thành phố Biên Hòa",
+                "type": "Thành phố thuộc tỉnh",
+                "subdivisions": [
+                    {
+                        "name": "Phường An Bình",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường An Bình",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường An Bình",
+                        "type": "Phường"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Long Khánh",
+                "type": "Thành phố thuộc tỉnh",
+                "subdivisions": []
+            },
+            {
+                "name": "Huyện Nhơn Trạch",
+                "type": "Huyện",
+                "subdivisions": [
+                    {
+                        "name": "Phú Hội",
+                        "type": "Xã"
+                    },
+                    {
+                        "name": "Phú Thạnh",
+                        "type": "Xã"
+                    },
+                    {
+                        "name": "Phú Đông",
+                        "type": "Xã"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Vĩnh Cửu",
+                "type": "Huyện",
+                "subdivisions": []
+            }
+        ]
     },
     {
         "licensePlates": [
@@ -527,7 +925,154 @@
         ],
         "name": "Bình Dương",
         "type": "Tỉnh",
-        "subdivisions": []
+        "subdivisions": [
+            {
+                "name": "Thành phố Thủ Dầu Một",
+                "type": "Thành phố thuộc tỉnh",
+                "subdivisions": [
+                    {
+                        "name": "Phường Phú Hòa",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Phú Mỹ",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Phú Tân",
+                        "type": "Phường"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Dĩ An",
+                "type": "Thành phố thuộc tỉnh",
+                "subdivisions": []
+            },
+            {
+                "name": "Thành phố Thuận An",
+                "type": "Thành phố thuộc tỉnh",
+                "subdivisions": []
+            },
+            {
+                "name": "Huyện Bến Cát",
+                "type": "Huyện",
+                "subdivisions": [
+                    {
+                        "name": "An Điền",
+                        "type": "Xã"
+                    },
+                    {
+                        "name": "An Tây",
+                        "type": "Xã"
+                    },
+                    {
+                        "name": "Lai Uyên",
+                        "type": "Xã"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Bắc Tân Uyên",
+                "type": "Huyện",
+                "subdivisions": []
+            },
+            {
+                "name": "Huyện Dầu Tiếng",
+                "type": "Huyện",
+                "subdivisions": [
+                    {
+                        "name": "Định An",
+                        "type": "Xã"
+                    },
+                    {
+                        "name": "Định Thành",
+                        "type": "Xã"
+                    },
+                    {
+                        "name": "Định Hiệp",
+                        "type": "Xã"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Phú Giáo",
+                "type": "Huyện",
+                "subdivisions": []
+            },
+            {
+                "name": "Huyện Tân Uyên",
+                "type": "Huyện",
+                "subdivisions": [
+                    {
+                        "name": "Bạch Đằng",
+                        "type": "Xã"
+                    },
+                    {
+                        "name": "Khánh Bình",
+                        "type": "Xã"
+                    },
+                    {
+                        "name": "Tân Hiệp",
+                        "type": "Xã"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Bàu Bàng",
+                "type": "Huyện",
+                "subdivisions": [
+                    {
+                        "name": "Lai Hưng",
+                        "type": "Xã"
+                    },
+                    {
+                        "name": "Trừ Văn Thố",
+                        "type": "Xã"
+                    },
+                    {
+                        "name": "Hưng Hòa",
+                        "type": "Xã"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Phú Giáo",
+                "type": "Huyện",
+                "subdivisions": [
+                    {
+                        "name": "An Linh",
+                        "type": "Xã"
+                    },
+                    {
+                        "name": "An Bình",
+                        "type": "Xã"
+                    },
+                    {
+                        "name": "Tân Hiệp",
+                        "type": "Xã"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Dầu Tiếng",
+                "type": "Huyện",
+                "subdivisions": [
+                    {
+                        "name": "Định An",
+                        "type": "Xã"
+                    },
+                    {
+                        "name": "Định Thành",
+                        "type": "Xã"
+                    },
+                    {
+                        "name": "Định Hiệp",
+                        "type": "Xã"
+                    }
+                ]
+            }
+        ]
     },
     {
         "licensePlates": [
@@ -535,7 +1080,101 @@
         ],
         "name": "Long An",
         "type": "Tỉnh",
-        "subdivisions": []
+        "subdivisions": [
+            {
+                "name": "Thành phố Tân An",
+                "type": "Thành phố thuộc tỉnh",
+                "subdivisions": [
+                    {
+                        "name": "Phường 1",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường 2",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường 3",
+                        "type": "Phường"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Bến Lức",
+                "type": "Huyện",
+                "subdivisions": []
+            },
+            {
+                "name": "Huyện Đức Hòa",
+                "type": "Huyện",
+                "subdivisions": []
+            },
+            {
+                "name": "Huyện Đức Huệ",
+                "type": "Huyện",
+                "subdivisions": []
+            },
+            {
+                "name": "Huyện Châu Thành",
+                "type": "Huyện",
+                "subdivisions": []
+            },
+            {
+                "name": "Huyện Thủ Thừa",
+                "type": "Huyện",
+                "subdivisions": []
+            },
+            {
+                "name": "Huyện Tân Hưng",
+                "type": "Huyện",
+                "subdivisions": []
+            },
+            {
+                "name": "Huyện Tân Thạnh",
+                "type": "Huyện",
+                "subdivisions": []
+            },
+            {
+                "name": "Huyện Mộc Hóa",
+                "type": "Huyện",
+                "subdivisions": []
+            },
+            {
+                "name": "Huyện Vĩnh Hưng",
+                "type": "Huyện",
+                "subdivisions": []
+            },
+            {
+                "name": "Huyện Kiến Tường",
+                "type": "Huyện",
+                "subdivisions": []
+            },
+            {
+                "name": "Huyện Thạnh Hóa",
+                "type": "Huyện",
+                "subdivisions": []
+            },
+            {
+                "name": "Huyện Bến Lức",
+                "type": "Huyện",
+                "subdivisions": []
+            },
+            {
+                "name": "Huyện Cần Đước",
+                "type": "Huyện",
+                "subdivisions": []
+            },
+            {
+                "name": "Huyện Cần Giuộc",
+                "type": "Huyện",
+                "subdivisions": []
+            },
+            {
+                "name": "Huyện Thủ Thừa",
+                "type": "Huyện",
+                "subdivisions": []
+            }
+        ]
     },
     {
         "licensePlates": [
@@ -543,7 +1182,61 @@
         ],
         "name": "Tiền Giang",
         "type": "Tỉnh",
-        "subdivisions": []
+        "subdivisions": [
+            {
+                "name": "Thành phố Mỹ Tho",
+                "type": "Thành phố thuộc tỉnh",
+                "subdivisions": [
+                    {
+                        "name": "Phường 1",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường 2",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường 3",
+                        "type": "Phường"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Châu Thành",
+                "type": "Huyện",
+                "subdivisions": []
+            },
+            {
+                "name": "Huyện Chợ Gạo",
+                "type": "Huyện",
+                "subdivisions": []
+            },
+            {
+                "name": "Huyện Cai Lậy",
+                "type": "Huyện",
+                "subdivisions": []
+            },
+            {
+                "name": "Huyện Tân Phước",
+                "type": "Huyện",
+                "subdivisions": []
+            },
+            {
+                "name": "Huyện Gò Công Tây",
+                "type": "Huyện",
+                "subdivisions": []
+            },
+            {
+                "name": "Huyện Gò Công Đông",
+                "type": "Huyện",
+                "subdivisions": []
+            },
+            {
+                "name": "Thị Gò Công",
+                "type": "",
+                "subdivisions": []
+            }
+        ]
     },
     {
         "licensePlates": [
@@ -551,7 +1244,61 @@
         ],
         "name": "Vĩnh Long",
         "type": "Tỉnh",
-        "subdivisions": []
+        "subdivisions": [
+            {
+                "name": "Thành phố Vĩnh Long",
+                "type": "Thành phố thuộc tỉnh",
+                "subdivisions": [
+                    {
+                        "name": "Phường 1",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường 2",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường 3",
+                        "type": "Phường"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Long Hồ",
+                "type": "Huyện",
+                "subdivisions": []
+            },
+            {
+                "name": "Huyện Mang Thít",
+                "type": "Huyện",
+                "subdivisions": []
+            },
+            {
+                "name": "Huyện Tam Bình",
+                "type": "Huyện",
+                "subdivisions": []
+            },
+            {
+                "name": "Huyện Bình Tân",
+                "type": "Huyện",
+                "subdivisions": []
+            },
+            {
+                "name": "Huyện Vũng Liêm",
+                "type": "Huyện",
+                "subdivisions": []
+            },
+            {
+                "name": "Huyện Trà Ôn",
+                "type": "Huyện",
+                "subdivisions": []
+            },
+            {
+                "name": "Huyện Bình Minh",
+                "type": "Thị xã",
+                "subdivisions": []
+            }
+        ]
     },
     {
         "licensePlates": [
@@ -581,32 +1328,110 @@
             {
                 "name": "Bình Thủy",
                 "type": "Quận",
-                "subdivisions": []
+                "subdivisions": [
+                    {
+                        "name": "Phường Bình Thủy",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Bùi Hữu Nghĩa",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Long Hòa",
+                        "type": "Phường"
+                    }
+                ]
             },
             {
                 "name": "Cái Răng",
                 "type": "Quận",
-                "subdivisions": []
+                "subdivisions": [
+                    {
+                        "name": "Phường Ba Láng",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Hưng Phú",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Thường Thạnh",
+                        "type": "Phường"
+                    }
+                ]
             },
             {
                 "name": "Ô Môn",
                 "type": "Quận",
-                "subdivisions": []
+                "subdivisions": [
+                    {
+                        "name": "Phường Châu Văn Liêm",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Thới An",
+                        "type": "Phường"
+                    },
+                    {
+                        "name": "Phường Thới Hòa",
+                        "type": "Phường"
+                    }
+                ]
             },
             {
                 "name": "Thới Lai",
                 "type": "Huyện",
-                "subdivisions": []
+                "subdivisions": [
+                    {
+                        "name": "Thới Lai",
+                        "type": "Xã"
+                    },
+                    {
+                        "name": "Trường Xuân",
+                        "type": "Xã"
+                    },
+                    {
+                        "name": "Trường Thành",
+                        "type": "Xã"
+                    }
+                ]
             },
             {
                 "name": "Cờ Đỏ",
                 "type": "Huyện",
-                "subdivisions": []
+                "subdivisions": [
+                    {
+                        "name": "Thới Hưng",
+                        "type": "Xã"
+                    },
+                    {
+                        "name": "Thới Xuân",
+                        "type": "Xã"
+                    },
+                    {
+                        "name": "Đông Hiệp",
+                        "type": "Xã"
+                    }
+                ]
             },
             {
                 "name": "Phong Điền",
                 "type": "Huyện",
-                "subdivisions": []
+                "subdivisions": [
+                    {
+                        "name": "Nhơn Ái",
+                        "type": "Xã"
+                    },
+                    {
+                        "name": "Tân Thới",
+                        "type": "Xã"
+                    },
+                    {
+                        "name": "Phong Điền",
+                        "type": "Xã"
+                    }
+                ]
             }
         ]
     },
